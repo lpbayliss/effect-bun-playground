@@ -1,4 +1,4 @@
-# bun-test
+# effect-bun-playground
 
 To install dependencies:
 
